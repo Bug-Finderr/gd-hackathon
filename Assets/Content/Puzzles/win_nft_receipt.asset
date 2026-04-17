@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_nft_receipt
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: nft_receipt
+  title: NFT_RECEIPT.jpg
+  type: 1
+  defaultSize: {x: 700, y: 500}
+  textBody: 
+  imageSprite: {fileID: 5467256805921694145, guid: 4a1dc5feaa6954124a69fc387ff91b5c, type: 3}
+  caption: 'DOGE.LEGACY #0069 :: wallet 0xDEAD...BEEF'
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers: []
+  passwordPrompt: 'Enter password:'
+  unlocksOnSolve: 
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 0
+  fragmentText: 
+  requiredUnlockId: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_prayer_chain
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: prayer_chain
+  title: FW_FW_PRAYER_CHAIN.eml
+  type: 0
+  defaultSize: {x: 700, y: 500}
+  textBody: 'From: grandpa@aol.com
+
+    To: everyone-i-know
+
+    Subject: FW: FW:
+    FW: PRAYER CHAIN MUST READ
+
+
+    FORWARD THIS TO 10 PEOPLE OR UR MOM DIES IN
+    HER SLEEP TONIGHT TYPE AMEN IF U LOVE JESUS
+
+    IGNORE IF U LOVE SATAN
+
+
+    hope
+    ur doing ok kid. the best friends are the four-legged kind. i miss the old days.
+    - grandpa'
+  imageSprite: {fileID: 0}
+  caption: 
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers: []
+  passwordPrompt: 'Enter password:'
+  unlocksOnSolve: 
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 0
+  fragmentText: 
+  requiredUnlockId: 

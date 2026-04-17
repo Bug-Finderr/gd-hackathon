@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_island_ops
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: island_ops
+  title: ISLAND_OPERATIONS_97.jpg
+  type: 1
+  defaultSize: {x: 700, y: 500}
+  textBody: 
+  imageSprite: {fileID: 7034104331936712869, guid: a69e353669bde4911866861d33f95ca2, type: 3}
+  caption: 'op briefing, martha''s vineyard 97.
+
+    i''m center. jeff is taking
+    notes. jeff ALWAYS took notes.'
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers: []
+  passwordPrompt: 'Enter password:'
+  unlocksOnSolve: 
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 0
+  fragmentText: 
+  requiredUnlockId: 

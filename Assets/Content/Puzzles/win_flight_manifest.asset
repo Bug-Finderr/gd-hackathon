@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_flight_manifest
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: flight_manifest
+  title: FLIGHT_MANIFEST_N908JE.pdf
+  type: 1
+  defaultSize: {x: 700, y: 500}
+  textBody: 'N908JE :: LOLITA EXPRESS :: FLIGHT LOG
+
+
+    ENTRY DATE: 1994-04-17
+
+    ROLE    
+    | NAME
+
+    PILOT    | [GRANDPA]
+
+    OPS LEAD | [GRANDPA]
+
+    PAX #1   | J.
+    EPSTEIN
+
+    PAX #2   | [REDACTED]
+
+    PAX #3   | [REDACTED]
+
+    INFANT   |
+    <ENTRY SWAPPED> :: see note
+
+
+    NOTE (grandpa''s handwriting): swapped the
+    infant pax for a decoy. kid was 0 years old. won''t happen to him again on my
+    watch.'
+  imageSprite: {fileID: -7767165216363909164, guid: 2b85458987be24180ac7630f1b800f42, type: 3}
+  caption: private aviation log. heavily redacted.
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers: []
+  passwordPrompt: 'Enter password:'
+  unlocksOnSolve: 
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 0
+  fragmentText: 
+  requiredUnlockId: 

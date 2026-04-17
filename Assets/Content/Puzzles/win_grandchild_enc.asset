@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_grandchild_enc
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: grandchild_enc
+  title: protected.enc
+  type: 3
+  defaultSize: {x: 700, y: 500}
+  textBody: 
+  imageSprite: {fileID: 0}
+  caption: 
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers:
+  - 1994
+  passwordPrompt: 'Enter the year of the swap:'
+  unlocksOnSolve: rickroll_unlocked
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 1
+  fragmentText: 'FRAGMENT 3 of 4
+
+
+    everything on this machine is mine. i built
+    the machine the conspiracy theorists scream about.
+
+    i was jeff''s boss, not
+    his friend. the one clean thing i ever did was keep you off the list.
+
+    the
+    rest is blood money, leverage, and enemies. run it better than i did. or burn
+    it.
+
+
+    one more thing. check the desktop. there''s a file waiting for you.
+
+    open
+    it first. it contains my final instructions. i promise. - grandpa'
+  requiredUnlockId: 

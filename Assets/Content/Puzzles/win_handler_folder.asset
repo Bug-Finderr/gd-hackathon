@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_handler_folder
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: handler_folder
+  title: \\SYSTEM32\\HANDLER
+  type: 2
+  defaultSize: {x: 780, y: 520}
+  textBody: 
+  imageSprite: {fileID: 0}
+  caption: 
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons:
+  - {fileID: 11400000, guid: 08411be1694b04b0ca56bba77ceaefa4, type: 2}
+  - {fileID: 11400000, guid: 7ec9859e453324619b4d9b7fe6109182, type: 2}
+  - {fileID: 11400000, guid: 795001b25331b41a4836a2090f58ead5, type: 2}
+  - {fileID: 11400000, guid: ab1312825077a4377b606d3218cb4382, type: 2}
+  - {fileID: 11400000, guid: 0466d57b2e626424f938aa593d9b9586, type: 2}
+  - {fileID: 11400000, guid: 90762b369e4ef4d4bb30db68d27e8e96, type: 2}
+  - {fileID: 11400000, guid: fd298359d51834819bfd6d3c606f6ee3, type: 2}
+  acceptedAnswers: []
+  passwordPrompt: 'Enter password:'
+  unlocksOnSolve: 
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 0
+  fragmentText: 
+  requiredUnlockId: 

@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.ivanmurzak.unity.mcp": "0.64.0",
+    "com.ivanmurzak.unity.mcp.animation": "1.1.23",
+    "com.ivanmurzak.unity.mcp.particlesystem": "1.0.50",
+    "com.ivanmurzak.unity.mcp.probuilder": "1.0.62",
     "com.unity.2d.animation": "14.0.3",
     "com.unity.2d.aseprite": "4.0.1",
     "com.unity.2d.psdimporter": "13.0.2",
@@ -52,5 +56,19 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.ivanmurzak",
+        "extensions.unity",
+        "org.nuget.com.ivanmurzak",
+        "org.nuget.microsoft",
+        "org.nuget.system",
+        "org.nuget.r3"
+      ]
+    }
+  ]
 }

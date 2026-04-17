@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_doge_wallet
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: doge_wallet
+  title: DogeWallet.exe
+  type: 3
+  defaultSize: {x: 700, y: 500}
+  textBody: 
+  imageSprite: {fileID: 0}
+  caption: 
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 0
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers:
+  - 2013
+  passwordPrompt: 'Enter 4-digit wallet PIN:'
+  unlocksOnSolve: handler_folder_unlocked
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 1
+  fragmentText: 'FRAGMENT 2 of 4
+
+
+    the shibe money isn''t the money. the shibe
+    money is the cover. the real money is in the partition no one can see.
+
+    if
+    you''re reading this, you''ve already bypassed layer 1. good. layer 2 is in SYSTEM32/HANDLER.
+
+    it
+    should be visible now. open it. meet the real me. - g'
+  requiredUnlockId: 

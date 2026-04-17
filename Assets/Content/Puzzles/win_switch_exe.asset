@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92f943b87f49cca900f604c21799c, type: 3}
+  m_Name: win_switch_exe
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.WindowDef
+  id: switch_exe
+  title: SWITCH.exe.locked
+  type: 3
+  defaultSize: {x: 700, y: 500}
+  textBody: 
+  imageSprite: {fileID: 0}
+  caption: 
+  videoFrames: []
+  videoFps: 12
+  forceRemainingSecondsOnOpen: 1
+  onOpenRemainingSeconds: 60
+  childIcons: []
+  acceptedAnswers:
+  - nevergiveyouup
+  - nevergiveup
+  - never gonna give you up
+  - never give you up
+  passwordPrompt: '[!] DEAD MAN SWITCH ARMED [!]
+
+    the bait, weaponized.'
+  unlocksOnSolve: game_won
+  onSolveMessage: ACCESS GRANTED
+  isWillFragment: 1
+  fragmentText: 'FRAGMENT 4 of 4
+
+
+    switch armed. contents deploying to FBI, NYT,
+    WikiLeaks.
+
+    effect: immediate. scope: total. enemies: activated.
+
+
+    the
+    will is assembled. your inheritance is live.
+
+    check the desktop. run.'
+  requiredUnlockId: 

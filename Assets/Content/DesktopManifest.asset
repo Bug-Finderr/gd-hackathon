@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72d382ce060d410abfce24d81e3131c, type: 3}
+  m_Name: DesktopManifest
+  m_EditorClassIdentifier: Assembly-CSharp::WillExe.DesktopManifest
+  topLevelIcons:
+  - {fileID: 11400000, guid: cfae6c12f7b064febb2f29fd5c4cb17f, type: 2}
+  - {fileID: 11400000, guid: b0c0773b222e44687bdd81c824193966, type: 2}
+  - {fileID: 11400000, guid: 23a25ee240bb441cbbf873cb28ed2c01, type: 2}
+  - {fileID: 11400000, guid: 07c62253053774f54839465cce5ddf9d, type: 2}
+  - {fileID: 11400000, guid: e7408f1eacb804afaa8cb44b5a75e6e3, type: 2}
+  - {fileID: 11400000, guid: f7c86084c609c45bd9fbc4fbe2a587e3, type: 2}
+  - {fileID: 11400000, guid: 9ae566ddd8fa34356876116b7296cc5f, type: 2}
+  easyTimerSeconds: 0
+  normalTimerSeconds: 900
+  hardTimerSeconds: 480
+  requiredFragments: 4
